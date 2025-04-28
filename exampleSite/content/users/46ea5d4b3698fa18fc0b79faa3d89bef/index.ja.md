@@ -1,8 +1,8 @@
 ---
-                title: "Xeonzilla’s Note"
-                tags: [個人サイト, ブログ]
-                externalUrl: "https://xeonzilla.github.io"
-                weight: 841
+                title: "zzzhome"
+                tags: [パーソナルサイト, ブログ]
+                externalUrl: "https://zzzhome.cc/"
+                weight: 981
                 showDate: false
                 showAuthor: false
                 showReadingTime: false

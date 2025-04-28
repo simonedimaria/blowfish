@@ -1,8 +1,8 @@
 ---
-                title: "Xeonzilla’s Note"
-                tags: [Sito personale, Blog]
-                externalUrl: "https://xeonzilla.github.io"
-                weight: 841
+                title: "Bootleg Coal Rebellion"
+                tags: [Author Site,Blog]
+                externalUrl: "https://bootlegcoal.com"
+                weight: 991
                 showDate: false
                 showAuthor: false
                 showReadingTime: false
@@ -11,4 +11,3 @@
                 showViews: false
                 layoutBackgroundHeaderSpace: false
                 ---
-
